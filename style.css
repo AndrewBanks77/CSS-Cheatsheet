@@ -45,7 +45,8 @@ body{
     padding: 15px;
     border-radius: 25px;
     outline-width: 35px;
-    ;
+}
 
-
+.catergories h2{
+    text-align: center;
 }
