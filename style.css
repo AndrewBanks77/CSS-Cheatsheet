@@ -9,6 +9,22 @@ body{
     margin: 0;
 }
 
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover{
+    color: red;
+}
+
+a:active{
+    color: green;
+}
+
+a.visited{
+    color: yellow;
+}
 .container{
     width: 75%;
     margin: auto;
@@ -53,4 +69,6 @@ body{
 
 .catergories ul{
     padding: 0;
+    list-style: square;
+    list-style: none;
 }
