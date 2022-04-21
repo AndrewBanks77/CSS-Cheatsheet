@@ -10,7 +10,8 @@ body{
 }
 
 .container{
-    width: 500px;
+    width: 75%;
+    margin: auto;
 }
 .box-1{
     background-color: #f0e9e9;
