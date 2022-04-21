@@ -16,4 +16,9 @@ body{
 .box-1{
     background-color: #f0e9e9;
     color: #0844f8;
+    border: 5px red solid;
+    border width: 3px;
+    border bottom width: 10px;
+    border top style: dotted;
+    
 }
