@@ -44,6 +44,8 @@ body{
     border: 2px #f0e9e9 solid;
     padding: 15px;
     border-radius: 25px;
+    outline-width: 35px;
+    ;
 
 
 }
