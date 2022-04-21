@@ -35,7 +35,7 @@ body{
 .box-2 {
     background-color: rgb(218, 228, 14);
     color: rgb(6, 34, 244);
-    border:  7px #f0e9e9;
+    border:  7px dotted #f0e9e9;
     border-width: 4px;
     padding: 12.5px;
 }
