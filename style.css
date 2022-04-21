@@ -39,3 +39,11 @@ body{
     border-width: 4px;
     padding: 12.5px;
 }
+
+.catergories{
+    border: 2px #f0e9e9 solid;
+    padding: 15px;
+    border-radius: 25px;
+
+
+}
