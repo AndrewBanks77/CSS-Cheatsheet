@@ -50,3 +50,7 @@ body{
 .catergories h2{
     text-align: center;
 }
+
+.catergories ul{
+    padding: 0;
+}
